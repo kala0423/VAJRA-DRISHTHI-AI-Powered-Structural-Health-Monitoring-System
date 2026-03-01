@@ -127,11 +127,11 @@ flask
 
 #  Author
 
-Satya Bhargav Teki
-B.Tech Electronics and Communication Engineering
+Kalanjali Kakumanu
+B.Tech Computer Science and Engeneering (Data Science)
 Vignan University, Andhra Pradesh, India
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/kala0423
 
 ---
 
@@ -148,7 +148,7 @@ Results are for educational and experimental purposes only.
 
 MIT License
 
-Copyright (c) 2026 Satya Bhargav Teki
+Copyright (c) 2026 Kalanjali Kakumanu
 
 Permission is hereby granted, free of charge, to use, copy, modify, and distribute this software.
 
